@@ -1,0 +1,23 @@
+.header__catagory{
+    height: 10px;
+    display: flex;
+    align-items: center;
+    background-color:rgba(10, 15, 10, 0.904);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+}
+.header__option{
+    text-justify:auto ;
+    background-position: left;
+
+}
+.header__app{
+    padding-left: 10%;
+    position: static;
+    width: 30%;
+
+}
